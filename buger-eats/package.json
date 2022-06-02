@@ -1,0 +1,22 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoZirbell/Cypress.git"
+  },
+  "author": "Eduardo Zirbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardoZirbell/Cypress/issues"
+  },
+  "homepage": "https://github.com/EduardoZirbell/Cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.0.1"
+  }
+}
