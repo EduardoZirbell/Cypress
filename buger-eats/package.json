@@ -1,7 +1,6 @@
 {
   "name": "buger-eats",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
@@ -17,6 +16,8 @@
   },
   "homepage": "https://github.com/EduardoZirbell/Cypress#readme",
   "devDependencies": {
-    "cypress": "^10.0.1"
-  }
+    "cypress": "^10.1.0"
+  },
+  "dependencies": {},
+  "description": ""
 }
