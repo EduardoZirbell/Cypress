@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/EduardoZirbell/Cypress#readme",
   "devDependencies": {
-    "cypress": "^10.1.0"
+    "cypress": "^10.1.0",
+    "cypress-file-upload": "^5.0.8"
   },
   "dependencies": {},
   "description": ""
