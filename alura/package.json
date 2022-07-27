@@ -1,0 +1,14 @@
+{
+  "name": "alura",
+  "version": "1.0.0",
+  "description": "Projeto de Cypress Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Eduardo Zirbell",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
